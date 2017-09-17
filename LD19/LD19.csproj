@@ -133,7 +133,6 @@
   <ItemGroup>
     <Content Include="Game.ico" />
     <Content Include="GameThumbnail.png" />
-    <Content Include="License.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LD19Content\LD19Content.contentproj">
